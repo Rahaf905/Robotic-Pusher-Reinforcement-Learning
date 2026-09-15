@@ -102,7 +102,6 @@ The generated results include:
 - Held-out IK evaluation plots
 
 These results allow the learned reinforcement learning policies to be compared with each other and with a conventional robotics-control approach.
-```
 
 ## Technologies
 
