@@ -1,0 +1,4 @@
+Algorithm,Evaluation Return (Mean ± Std),Final Planar Distance (Mean ± Std),Success Rate (%),Fingertip-to-Object Distance (Mean ± Std),Control Effort (Mean ± Std),Normalized Return AUC
+PPO,-114.01 ± 13.92,0.2957 ± 0.0699,0.0,0.1851 ± 0.0496,0.0816 ± 0.0029,-112.3365
+SAC,-98.85 ± 33.23,0.1843 ± 0.1137,15.0,0.1656 ± 0.0656,0.2852 ± 0.2257,-110.331
+TD3,-53.59 ± 7.46,0.0488 ± 0.0320,80.0,0.1050 ± 0.0096,0.1101 ± 0.0512,-85.4229
